@@ -9,3 +9,6 @@ A repository of articles I've read or I would like to read (when I have the time
 
 ### Other
 - [Container Security](https://www.kuppingercole.com/reprints/b1e948f62d5394353f996e43a89cde4a)
+
+### Kuberneetes
+- [Kubeneretes Readings](https://github.com/pslucas0212/Kubernetes-Readings)
