@@ -12,3 +12,6 @@ A repository of articles I've read or I would like to read (when I have the time
 
 ### Kuberneetes
 - [Kubeneretes Readings](https://github.com/pslucas0212/Kubernetes-Readings)
+
+### Linux
+- [How to become a Linux pro](https://www.zdnet.com/article/how-to-become-a-linux-pro/)
