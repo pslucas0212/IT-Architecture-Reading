@@ -15,3 +15,4 @@ A repository of articles I've read or I would like to read (when I have the time
 
 ### Linux
 - [How to become a Linux pro](https://www.zdnet.com/article/how-to-become-a-linux-pro/)
+- [Linux Introduction 2019](https://www.youtube.com/playlist?list=PLJcaPjxegjBV4aJh4hw3p3yL3CxE2sFXL) - YouTube Series
