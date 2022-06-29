@@ -21,3 +21,7 @@ A repository of articles I've read or I would like to read (when I have the time
 - [Packer your AMIs for Immutable AWS Deployments](https://lobster1234.github.io/2017/04/23/packer-your-AMIs-for-immutable-aws-deployments/)
 - [Simple Jenkins + Packer + Terraform Pipeline for AWS EC2 using Github as SCM](https://carlospgarciat.medium.com/simple-jenkins-packer-terraform-pipeline-for-aws-ec2-using-github-as-scm-e9a37ef87284)
 - [Provisioning a VSTS Agent Cluster in Azure with Ansible, Packer and Terraform](https://medium.com/gsoft-tech/provisioning-a-vsts-agent-cluster-in-azure-with-ansible-packer-and-terraform-d06c23deef71)
+
+
+### Other Red Hat Topics
+- [Red Hat Satellite 6 System Architecture](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.0/html-single/user_guide/index) - Good diagrams to reinforce learning.
