@@ -12,7 +12,7 @@ A repository of articles I've read or I would like to read (when I have the time
 
 ### Kuberneetes
 - [Kubeneretes Readings](https://github.com/pslucas0212/Kubernetes-Readings)
-- [Tanzu Editions - A Clear explanation](https://www.vrabbi.cloud/post/tanzu-editions-a-clear-explanation#klue-view-437422)
+- [Tanzu Editions - A Clear explanation](https://www.vrabbi.cloud/post/tanzu-editions-a-clear-explanation#klue-view-437422) - published June 16th 2022
 
 ### Linux
 - [How to become a Linux pro](https://www.zdnet.com/article/how-to-become-a-linux-pro/)
