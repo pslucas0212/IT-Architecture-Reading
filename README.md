@@ -16,6 +16,7 @@ A repository of articles I've read or I would like to read (when I have the time
 ### Linux
 - [How to become a Linux pro](https://www.zdnet.com/article/how-to-become-a-linux-pro/)
 - [Linux Introduction 2019](https://www.youtube.com/playlist?list=PLJcaPjxegjBV4aJh4hw3p3yL3CxE2sFXL) - YouTube Series
+- [Linux su vs sudo: what's the difference?](https://opensource.com/article/22/6/linux-su-vs-sudo-sysadmin)
 
 ### OS Provisioning, Patching, Configuration, etc.
 - [Packer your AMIs for Immutable AWS Deployments](https://lobster1234.github.io/2017/04/23/packer-your-AMIs-for-immutable-aws-deployments/)
