@@ -27,3 +27,6 @@ A repository of articles I've read or I would like to read (when I have the time
 ### Other Red Hat Topics
 - [Red Hat Satellite 6 System Architecture](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.0/html-single/user_guide/index) - Good diagrams to reinforce learning.
 - [Part I. Satellite Architecture - 6.10](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.10/html/planning_for_red_hat_satellite/part-architecture) - Updated overview of Satellite Architecture
+
+### Misc., Fun?
+- [Why I switched from Apple Music to Jellyfin and Raspberry Pi](https://opensource.com/article/22/7/media-library-jellyfin-raspberry-pi)
