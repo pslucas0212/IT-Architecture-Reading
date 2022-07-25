@@ -14,6 +14,9 @@ A repository of articles I've read or I would like to read (when I have the time
 - [Kubeneretes Readings](https://github.com/pslucas0212/Kubernetes-Readings)
 - [Tanzu Editions - A Clear explanation](https://www.vrabbi.cloud/post/tanzu-editions-a-clear-explanation#klue-view-437422) - published June 16th 2022
 
+### Application Modernization
+- [Application Modernization at Discover: The Need to Modernize](https://www.ibm.com/cloud/blog/application-modernization-at-discover-the-need-to-modernize)
+
 ### Linux
 - [How to become a Linux pro](https://www.zdnet.com/article/how-to-become-a-linux-pro/)
 - [Linux Introduction 2019](https://www.youtube.com/playlist?list=PLJcaPjxegjBV4aJh4hw3p3yL3CxE2sFXL) - YouTube Series
@@ -31,3 +34,5 @@ A repository of articles I've read or I would like to read (when I have the time
 
 ### Misc., Fun?
 - [Why I switched from Apple Music to Jellyfin and Raspberry Pi](https://opensource.com/article/22/7/media-library-jellyfin-raspberry-pi)
+
+
